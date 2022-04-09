@@ -53,16 +53,20 @@ main {
   gap: 80px;
 }
 
-
 /* section */
 section h1 {
   font-weight: 700;
   font-size: 36px;
+  text-align: end;
 }
 
 
-section h1 span {
+section span {
   color: #00BFA6;
+}
+
+p span {
+  font-weight: bold;
 }
 
 section p {
