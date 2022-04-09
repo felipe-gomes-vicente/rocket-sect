@@ -1,6 +1,13 @@
 /* Google Fonts Typography*/
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;700&family=Open+Sans:wght@400;700&display=swap');
 
+:root {
+  --text-primary: #FFF;
+  --text-gray: #C2C2C2;
+  --color-green: #00BFA6;
+  --bg-primary: #2C2B3D;
+}
+
 /* HTML5 display-role reset for browsers */
 * {
   margin: 0;
@@ -10,12 +17,12 @@
 
 body {
   font-family: 'JetBrains Mono', sans-serif;
-  background: #2C2B3D;
+  background: var(--bg-primary);
 }
 
 h1, a, footer {
   text-decoration: none;
-  color: #FFF;
+  color: var(--text-primary);
 }
 
 a:hover {
@@ -62,7 +69,7 @@ section h1 {
 
 
 section span {
-  color: #00BFA6;
+  color: var(--color-green);
 }
 
 p span {
@@ -74,7 +81,7 @@ section p {
   font-weight: normal;
   font-size: 16px;
   line-height: 28px;
-  color: #C2C2C2;
+  color: var(--text-gray);
   margin: 40px 0;
   text-align: center;
 }
@@ -83,7 +90,7 @@ section p {
   width: 568px;
   height: 0;
   margin: 157px auto 27px;
-  border: 1px solid #00BFA6;
+  border: 1px solid var(--color-green);
   
 }
 
