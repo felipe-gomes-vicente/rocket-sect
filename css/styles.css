@@ -13,7 +13,7 @@ body {
   background: #2C2B3D;
 }
 
-h1, a {
+h1, a, footer {
   text-decoration: none;
   color: #FFF;
 }
@@ -76,5 +76,19 @@ section p {
   line-height: 28px;
   color: #C2C2C2;
   margin: 40px 0;
+  text-align: center;
+}
+
+.line {
+  width: 568px;
+  height: 0;
+  margin: 167px auto 27px;
+  border: 1px solid #00BFA6;
+  
+}
+
+/* Footer */
+footer {
+  font-size: 14px;
   text-align: center;
 }
