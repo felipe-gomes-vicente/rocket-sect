@@ -1,6 +1,13 @@
 /* Google Fonts Typography*/
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;700&family=Open+Sans:wght@400;700&display=swap');
 
+/* HTML5 display-role reset for browsers */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   background: #2C2B3D;
