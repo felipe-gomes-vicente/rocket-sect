@@ -9,6 +9,37 @@
 }
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'JetBrains Mono', sans-serif;
   background: #2C2B3D;
+}
+
+h1, a {
+  text-decoration: none;
+  color: #FFF;
+}
+
+a:hover {
+  opacity: .5;
+  transform: all .2s;
+}
+
+.page {
+  width: 1080px;
+  margin: 0 auto;
+  padding-top: 71px;
+}
+
+/* NavBar */
+nav {
+  display: flex;
+  align-items: center;
+  margin-bottom: 100px;
+  justify-content: space-between;
+}
+
+nav ul {
+  display: flex;
+  gap: 64px;
+  list-style: none;
+  font-weight: 500;
 }
