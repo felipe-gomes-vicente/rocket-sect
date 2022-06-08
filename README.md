@@ -43,9 +43,9 @@ to this project, with the lessons:
 <br />
 
 - [EXPLORER - Rocketseat](https://www.rocketseat.com.br/explorer)
-- [Print Figma - Rocket Sect](https://www.figma.com/file/EdKjPWjC8ZlbnH4XzTObv2?node-id=16:106)
+- [Design Figma - Rocket Sect](https://www.figma.com/file/EdKjPWjC8ZlbnH4XzTObv2?node-id=16:106)
 
-## IImage from the final project:
+## Image from the final project:
  <img alt="Print Rocket Sect" title=" Landing page" src="./assets/print.png" />
 
 
