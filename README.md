@@ -82,4 +82,4 @@ This project is under the MIT license. See the file [LICENSE](LICENSE.md) for mo
 
 <p align="center">Done with 💜 by Felipe Vicente👋</p>
 
-- ## Meu LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-FelipeVicente-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-gomes-vicente/)](https://www.linkedin.com/in/felipe-gomes-vicente/)
+- ## My LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-FelipeVicente-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-gomes-vicente/)](https://www.linkedin.com/in/felipe-gomes-vicente/)
