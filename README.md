@@ -1,84 +1,85 @@
 # Rocket Sect
 
 <h1 align="center">
-    <img alt="Gif do projeto concluído Rocket sect" title="gif" src="./assets/rocket-sect.gif" />
+    <img alt="Gif of the finished project Rocket sect" title="gif" src="./assets/rocket-sect.gif" />
 </h1>
 
 <br>
 
 ### 💻 Rocket Sect
 
-O desafio desse é construír uma página web do zero utilizar o layout do protótipo 
-disponível no figma, fortalecer meu conhecimento de HTML e CSS em aplicar conceitos 
-e o que foi visto nos projetos anteriores do Stage 2.
-Fui além me desafiei em aplicar conceitos que não foi visto nas aulas e nos projetos 
-ao aplicar responsividade na pagina web.
+The challenge of this one is to build a web page from scratch using the layout of 
+the prototype available on figma, strengthen my knowledge of HTML and CSS in applying 
+concepts and what was seen in previous Stage 2 projects.
+I went further and challenged myself to apply concepts that were not observed in 
+classes and projects when applying responsiveness on the web page.
 
-Acesse a página do projeto: [Clique Aqui](https://felipe-gomes-vicente.github.io/rocket-sect/)
+Watch it in action Deploy: [Click Here](https://felipe-gomes-vicente.github.io/rocket-sect/)
 
-O que foi feito:
+What was developed:
 
-- Estruturando HTML com tags semânticas;
-- Me desafei e apliquei Responsividade;
-- Posição dos elementos na tela;
-- Importar arquivo de CSS externo no projeto;
-- Aplicando fontes(tipografia) customizadas no arquivo do CSS e iniciando o CSS externo;
-- Trabalhando com cores e fontes;
-- Alinhando e posicionando textos e elementos;
-- Aplicando os espaçamentos;
-- Bordas e classificações de elementos;
-- O conceito Box Model do CSS;
-- Utilizar variaveis CSS para manipular a paleta de cores do projeto;
-- Efeito nos elementos HTML de links;
-- Reset CSS removendo possíveis inconsistências entre navegadores diferentes;
-- Estrutura de sistema de arquivos do projeto separado por pasta;
+- Structuring HTML with semantic tags;
+- I challenged myself and applied Responsiveness;
+- Position of elements on the screen;
+- Import external CSS file into the project;
+- Applying custom fonts (typography) in the CSS file and starting the external CSS;
+- Working with colors and fonts;
+- Aligning and positioning texts and elements;
+- Applying the spacing;
+- Borders and element classifications;
+- The CSS Box Model concept;
+- Use CSS variables to manipulate the project's color palette;
+- Hover effect on HTML elements of links;
+- Reset CSS removing possible inconsistencies between different browsers;
+- Project file system structure separated by folder;
 
 
-Aplicado meu conhecimento do Explorer da Rocketseat conceitos de forma prática nesse projeto, com as aulas:
+I applied my knowledge of the Explorer from Rocketseat concepts in a practical way 
+to this project, with the lessons:
 
-- Introdução ao HTML e CSS;
-- Conhecendo novos conceitos de HTML e CSS;
+- Introduction to HTML and CSS;
+- Getting to know new concepts of HTML and CSS;
   
 <br />
 
 - [EXPLORER - Rocketseat](https://www.rocketseat.com.br/explorer)
-- [Figma do Projeto - Rocket Sect](https://www.figma.com/file/EdKjPWjC8ZlbnH4XzTObv2?node-id=16:106)
+- [Print Figma - Rocket Sect](https://www.figma.com/file/EdKjPWjC8ZlbnH4XzTObv2?node-id=16:106)
 
-## Imagem do Projeto concluído:
- <img alt="Print do projeto Rocket Sect" title=" Landing page" src="./assets/print.png" />
+## IImage from the final project:
+ <img alt="Print Rocket Sect" title=" Landing page" src="./assets/print.png" />
 
 
-## 🧪 Tecnologias
+## 🧪 Tools
 
-Aplicação desenvolvida usando as seguintes tecnologias:
+Application developed using the following tools:
 
 - [HTML5](https://www.w3schools.com/html/default.asp)
 - [CSS3](https://www.w3schools.com/css/default.asp)
 
-## 🚀 Iniciar Projeto
+## 🚀 Getting started
 
-Live server com VScode ou apenas clonar pasta e acessar o index.html
+Live server with VScode or just clone folder and access index.html
 
-### Programas necessários para iniciar projeto
+### Programs needed to Getting started
 
 - [Live Server (Opcional)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Visual Studio Code - Vscode](https://code.visualstudio.com/)
 
-Clone o projeto e acesso a pasta.
+Clone the project and access the folder.
 
 ```bash
 $ git clone https://github.com/felipe-gomes-vicente/rocket-sect.git
 $ cd rocket-sect
 ```
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the MIT license. See the file [LICENSE](LICENSE.md) for more details.
 
 ---
 
 &nbsp;
 
-<p align="center">Feito com 💜 by Felipe Vicente👋</p>
+<p align="center">Done with 💜 by Felipe Vicente👋</p>
 
 - ## Meu LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-FelipeVicente-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-gomes-vicente/)](https://www.linkedin.com/in/felipe-gomes-vicente/)
